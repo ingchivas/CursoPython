@@ -26,7 +26,7 @@ from turtle import *
 ```
 
 Turtle se basa en un plano cartesiano de 2 dimensiones. (x,y)
-![plano](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Acc30c644705acbd38839184a380f248765476b370c9ed509f3a13a8b%2BIMAGE_TINY%2BIMAGE_TINY.1)
+![plano](https://st4.depositphotos.com/10018754/30949/v/600/depositphotos_309491620-stock-illustration-cartesian-coordinate-system-in-the.jpg)
 ![plano2](https://www.mclibre.org/consultar/python/img/turtle/turtle-ejes.png)
 
 Por defecto, la ventana tiene dimensiones de (450x450px)
